@@ -1,6 +1,6 @@
 {
   "name": "bs-react-slick",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "scripts": {
     "changelog": "auto-changelog --template keepachangelog",
     "bsb": "bsb -clean-world -make-world"
@@ -8,6 +8,7 @@
   "keywords": [
     "BuckleScript"
   ],
+  "homepage": "https://github.com/JakubMarkiewicz/bs-react-slick",
   "author": "JakubMarkiewicz",
   "license": "MIT",
   "dependencies": {
