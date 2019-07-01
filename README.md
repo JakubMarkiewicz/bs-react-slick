@@ -9,7 +9,7 @@ yarn add bs-react-slick
 
 # Setup
 
-Add reason-transition-group to `bs-depenencies` in your `bsconfig.json`!
+Add bs-react-slick to `bs-depenencies` in your `bsconfig.json`!
 
 ```js
 {
